@@ -1,0 +1,6 @@
+/Users/christian/Projects/Opgave2/Opgave2/bin/Debug/Opgave2.exe
+/Users/christian/Projects/Opgave2/Opgave2/bin/Debug/Opgave2.pdb
+/Users/christian/Projects/Opgave2/Opgave2/obj/x86/Debug/Opgave2.csprojAssemblyReference.cache
+/Users/christian/Projects/Opgave2/Opgave2/obj/x86/Debug/Opgave2.csproj.CoreCompileInputs.cache
+/Users/christian/Projects/Opgave2/Opgave2/obj/x86/Debug/Opgave2.exe
+/Users/christian/Projects/Opgave2/Opgave2/obj/x86/Debug/Opgave2.pdb
